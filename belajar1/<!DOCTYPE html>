@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title>Belajjar layout</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, intial scale=1">
+
+<style>
+
+*{
+	box-sizing: border-box;
+
+}
+
+Body {
+	magin: 0;
+
+}
+
+
+/* style the header */
+.header {
+	background-color: #f1f1f1;
+	padding
+
+
+}
+
+
+	</head>
+
+	<body>
+
+
+
+
+
+	</body>
+
+
+
+
+
+
+
+
+
+</html>
